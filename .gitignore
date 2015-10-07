@@ -6,5 +6,4 @@
 *.pyc
 
 .idea
-lannister/tyrion
 aws_eb_lannister.iml
