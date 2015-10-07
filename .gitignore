@@ -4,4 +4,6 @@
 !.elasticbeanstalk/*.cfg.yml
 !.elasticbeanstalk/*.global.yml
 
+.idea
 lannister/tyrion
+aws_eb_lannister.iml
