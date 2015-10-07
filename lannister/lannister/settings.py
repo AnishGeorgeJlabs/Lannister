@@ -39,6 +39,7 @@ INSTALLED_APPS = (
     'django.contrib.staticfiles',
     'corsheaders',
     'tyrion',
+    'jaime'
 )
 
 MIDDLEWARE_CLASSES = (
