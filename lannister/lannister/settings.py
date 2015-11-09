@@ -39,7 +39,8 @@ INSTALLED_APPS = (
     'django.contrib.staticfiles',
     'corsheaders',
     'tyrion',
-    'jaime'
+    'jaime',
+    'cersei'
 )
 
 MIDDLEWARE_CLASSES = (
